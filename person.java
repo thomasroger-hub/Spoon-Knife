@@ -14,7 +14,13 @@ public class person {
         return "";
     }
     public Integer method2(){
-        return 0;
+         return 0;
+    }
+    public void method3(){
+    }
+    public Hello method4(){
+        Hello hello=new Hello();
+        return helll;
     }
     public Person method5(){
         Person person=new Person();
