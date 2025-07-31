@@ -10,10 +10,16 @@ public class person {
     public static void main(String[] args) {
         System.out.println("jfhlksfjskjffslljfsfj");
     }
-public String method1(){
-    return "";
-}
+    public String method1(){
+        return "";
+    }
     public Integer method2(){
-        return 0;
+         return 0;
+    }
+    public void method3(){
+    }
+    public Hello method4(){
+        Hello hello=new Hello();
+        return helll;
     }
 }
