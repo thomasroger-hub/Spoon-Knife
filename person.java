@@ -10,7 +10,9 @@ public class person {
     public static void main(String[] args) {
         System.out.println("jfhlksfjskjffslljfsfj");
     }
-
+pulic String method1(){
+    return "";
+}
     public Integer method2(){
         return 0;
     }
